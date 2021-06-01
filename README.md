@@ -6,7 +6,11 @@
 * Gonzales Santiago
 * Sopela Marcos
 # ENTREGAS
-1. ![image](https://user-images.githubusercontent.com/7357374/120259369-35363900-c26a-11eb-8eac-35c340676d98.png)
+## PRIMER ITERACIÓN 
+### ASIGNACIONES
+![image](https://user-images.githubusercontent.com/7357374/120259369-35363900-c26a-11eb-8eac-35c340676d98.png) 
+### Video de pantallas
+https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/2021-%202do%20Parcial%20TP%20-PPS%20(la%20comanda)_1cuat.pdf. 
 
 
 # DIAGRAMAS 
