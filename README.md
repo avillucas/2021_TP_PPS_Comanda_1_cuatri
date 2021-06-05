@@ -4,8 +4,12 @@
 ### INTEGRANTES
 * Avila Lucas
 * Gonzales Santiago
-* Sopela Marcos
 # ENTREGAS
+## SEGUNDA INTERACIÓN ITERACIÓN 
+### ASIGNACIONES
+
+### Video de pantallas
+( pendiente )
 ## PRIMER ITERACIÓN 
 ### ASIGNACIONES
 ![image](https://user-images.githubusercontent.com/7357374/120259369-35363900-c26a-11eb-8eac-35c340676d98.png) 
