@@ -1,6 +1,7 @@
 # 2021_TP_PPS_Comanda_1_cuatri
 ![logo_small](https://user-images.githubusercontent.com/7357374/120256432-7fb4b700-c264-11eb-8e9e-61db2723ac18.png)
-## NOMBRE DEL EQUIPO **NEVER_VAGOS**
+## NOMBRE DEL EQUIPO 
+# NEVER_VAGOS
 ### INTEGRANTES
 * Avila Lucas
 * Gonzales Santiago
