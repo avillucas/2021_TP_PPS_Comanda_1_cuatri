@@ -17,6 +17,11 @@
 ### Video de pantallas
 https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-0000.mp4
 
+# QRS 
+## QR Lista espera 
+![image](https://user-images.githubusercontent.com/7357374/120956554-2a781a00-c72a-11eb-9195-0dd1b77c2728.png)
+## QR Asignar mesa
+![image](https://user-images.githubusercontent.com/7357374/120956536-1f24ee80-c72a-11eb-9856-8f5c2988f910.png)
 
 # DIAGRAMAS 
 ## REFERENCIA
