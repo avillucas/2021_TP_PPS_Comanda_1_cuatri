@@ -8,7 +8,7 @@
 # ENTREGAS
 ## SEGUNDA INTERACIÓN ITERACIÓN 
 ### ASIGNACIONES
-
+![image](https://user-images.githubusercontent.com/7357374/121292276-1108d680-c8c0-11eb-9a41-7c4c0b3fb967.png)
 ### Video de pantallas
 ( pendiente )
 ## PRIMER ITERACIÓN 
@@ -16,18 +16,21 @@
 ![image](https://user-images.githubusercontent.com/7357374/120259369-35363900-c26a-11eb-8eac-35c340676d98.png) 
 ### Video de pantallas
 https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-0000.mp4
-
+# ICONO 
+![image](https://user-images.githubusercontent.com/7357374/121294457-d0ab5780-c8c3-11eb-921e-77f8d1a910e6.png)
 # QRS 
 ## QR Lista espera 
-![image](https://user-images.githubusercontent.com/7357374/120956554-2a781a00-c72a-11eb-9195-0dd1b77c2728.png)
+![image](https://user-images.githubusercontent.com/7357374/121293445-00f1f680-c8c2-11eb-8685-970bea9aa801.png)
 ## QR Asignar mesa
-![image](https://user-images.githubusercontent.com/7357374/120956536-1f24ee80-c72a-11eb-9856-8f5c2988f910.png)
+![image](https://user-images.githubusercontent.com/7357374/121293374-e750af00-c8c1-11eb-84f3-41696dbb887f.png)
 
+## Email
+![image](https://user-images.githubusercontent.com/7357374/121292679-bb80f980-c8c0-11eb-92af-32fd73727588.png)
 # DIAGRAMAS 
 ## REFERENCIA
 ![image](https://user-images.githubusercontent.com/7357374/120257674-02d70c80-c267-11eb-8ea7-1568feee60c2.png)
 ## PROCESO GENERAL CLIENTE
-![image](https://user-images.githubusercontent.com/7357374/120259065-9d384f80-c269-11eb-9c2e-b7bc8b3d2265.png)
+![image](https://user-images.githubusercontent.com/7357374/121292320-27169700-c8c0-11eb-8ff1-ca5031fe09af.png)
 ## SOLICITUD DE CLIENTE ( CLUB TITO ) 
 ![image](https://user-images.githubusercontent.com/7357374/120257970-9ad4f600-c267-11eb-8abe-3c699dff3835.png)
 ## ACEPTACIÓN CLIENTE (CLUB TITO )
@@ -66,7 +69,8 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ![image](https://user-images.githubusercontent.com/7357374/120258755-04093900-c269-11eb-98aa-da84cb91acfe.png)
 ## ESCANEO QR_LISTA_ESPERA
 ![image](https://user-images.githubusercontent.com/7357374/120258907-46327a80-c269-11eb-9647-3e519dab92a2.png)
-
+# PANTALLAS 
+![image](https://user-images.githubusercontent.com/7357374/121292389-457c9280-c8c0-11eb-9768-6ee874f0b348.png)
 # ROLES 
 ![Uploading image.png…]()
 # PERMISOS POR ROL 
