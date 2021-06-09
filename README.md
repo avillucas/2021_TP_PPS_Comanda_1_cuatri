@@ -12,16 +12,9 @@
 ### Video de pantallas
 #### Registro anonimo
 Al ingresar el cliente puede ingresar de manera anonima con foto y nombre
-[![Registro Anonimo](https://user-images.githubusercontent.com/7357374/120256432-7fb4b700-c264-11eb-8e9e-61db2723ac18.png)](https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/registro-anonimo.mp4)
-
+https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/registro-anonimo.mp4
 #### Registro cliente
 El cliente puede solicitar la inscripción a la espera de que el dueño lo acepte
-
-
-
-
-[![Watch the video](https://img.youtube.com/vi/h-0B_KZGjGc/maxresdefault.jpg)](https://www.youtube.com/watch?v=h-0B_KZGjGc)
-
 https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/registro-cliente.mp4
 #### Aceptación de registro Cliente
 El dueño puede aceptar a un cliente para que este pueda entrar a la aplicación , se le encia un email notificandolo.
