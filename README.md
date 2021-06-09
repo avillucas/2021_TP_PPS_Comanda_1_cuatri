@@ -10,7 +10,15 @@
 ### ASIGNACIONES
 ![image](https://user-images.githubusercontent.com/7357374/121292276-1108d680-c8c0-11eb-9a41-7c4c0b3fb967.png)
 ### Video de pantallas
-( pendiente )
+#### Registro anonimo
+Al ingresar el cliente puede ingresar de manera anonima con foto y nombre
+https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/registro-anonimo.mp4
+#### Registro cliente
+El cliente puede solicitar la inscripción a la espera de que el dueño lo acepte
+https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/registro-cliente.mp4
+#### Aceptación de registro Cliente
+El dueño puede aceptar a un cliente para que este pueda entrar a la aplicación , se le encia un email notificandolo.
+https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/aceptacion-cliente.mp4
 ## PRIMER ITERACIÓN 
 ### ASIGNACIONES
 ![image](https://user-images.githubusercontent.com/7357374/120259369-35363900-c26a-11eb-8eac-35c340676d98.png) 
