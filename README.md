@@ -28,9 +28,9 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ![image](https://user-images.githubusercontent.com/7357374/121294457-d0ab5780-c8c3-11eb-921e-77f8d1a910e6.png)
 # QRS 
 ## QR Lista espera 
-![image](https://user-images.githubusercontent.com/7357374/121293445-00f1f680-c8c2-11eb-8685-970bea9aa801.png)
+![image](https://user-images.githubusercontent.com/7357374/122305097-ac133900-cedc-11eb-9559-d5c6494399df.png)
 ## QR Asignar mesa
-![image](https://user-images.githubusercontent.com/7357374/121293374-e750af00-c8c1-11eb-84f3-41696dbb887f.png)
+![image](https://user-images.githubusercontent.com/7357374/122305139-c0efcc80-cedc-11eb-8d32-c95fda349b80.png)
 
 ## Email
 ![image](https://user-images.githubusercontent.com/7357374/121292679-bb80f980-c8c0-11eb-92af-32fd73727588.png)
