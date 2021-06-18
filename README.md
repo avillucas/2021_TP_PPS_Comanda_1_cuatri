@@ -6,7 +6,10 @@
 * Avila Lucas
 * Gonzales Santiago
 # ENTREGAS
-## SEGUNDA INTERACIÓN ITERACIÓN 
+## TERCERA ITERACIÓN 
+ Script para filmación de test https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/script-test-iteracion.pdf
+ Test : 
+## SEGUNDA ITERACIÓN 
 ### ASIGNACIONES
 ![image](https://user-images.githubusercontent.com/7357374/121292276-1108d680-c8c0-11eb-9a41-7c4c0b3fb967.png)
 ### Video de pantallas
