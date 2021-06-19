@@ -7,8 +7,11 @@
 * Gonzales Santiago
 # ENTREGAS
 ## TERCERA ITERACIÓN 
+### ASIGNACIONES
+![image](https://user-images.githubusercontent.com/7357374/122625298-dbf84300-d07a-11eb-8d86-693c60951487.png)
  Script para filmación de test https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/script-test-iteracion.pdf
- Test : 
+ Test subido a classroom : https://drive.google.com/file/d/1nh3lrX3ydy4k5D4WLeqfuGq-RpYVmmru/view?usp=sharing
+ 
 ## SEGUNDA ITERACIÓN 
 ### ASIGNACIONES
 ![image](https://user-images.githubusercontent.com/7357374/121292276-1108d680-c8c0-11eb-9a41-7c4c0b3fb967.png)
