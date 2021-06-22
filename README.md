@@ -39,12 +39,6 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ![image](https://user-images.githubusercontent.com/7357374/122305139-c0efcc80-cedc-11eb-8d32-c95fda349b80.png)
 ## QR Mesa 2
 ![image](https://user-images.githubusercontent.com/7357374/122489985-49db3680-cfb7-11eb-921a-a034ff125a60.png)
-## DNI test 1
-![image](https://user-images.githubusercontent.com/7357374/122494331-90349380-cfbf-11eb-9828-c6a03d0852ba.png)
-## DNI test 2
-![image](https://user-images.githubusercontent.com/7357374/122494343-9296ed80-cfbf-11eb-9e34-21ca12226b1b.png)
-## DNI test 3
-![image](https://user-images.githubusercontent.com/7357374/122494357-975ba180-cfbf-11eb-967e-34d04dfa4410.png)
 ## Email
 ![image](https://user-images.githubusercontent.com/7357374/121292679-bb80f980-c8c0-11eb-92af-32fd73727588.png)
 # DIAGRAMAS 
