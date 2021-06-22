@@ -39,8 +39,10 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ![image](https://user-images.githubusercontent.com/7357374/122305139-c0efcc80-cedc-11eb-8d32-c95fda349b80.png)
 ## QR Mesa 2
 ![image](https://user-images.githubusercontent.com/7357374/122489985-49db3680-cfb7-11eb-921a-a034ff125a60.png)
-## Email
+## Email aceptación
 ![image](https://user-images.githubusercontent.com/7357374/121292679-bb80f980-c8c0-11eb-92af-32fd73727588.png)
+## Email rechazo
+![image](https://user-images.githubusercontent.com/7357374/122851243-051c0c00-d2e5-11eb-82cc-3e155ff395af.png)
 # DIAGRAMAS 
 ## REFERENCIA
 ![image](https://user-images.githubusercontent.com/7357374/120257674-02d70c80-c267-11eb-8ea7-1568feee60c2.png)
