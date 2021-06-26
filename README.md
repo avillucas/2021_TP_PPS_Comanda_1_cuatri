@@ -1,10 +1,14 @@
 # 2021_TP_PPS_Comanda_1_cuatri
-![logo_small](https://user-images.githubusercontent.com/7357374/120256432-7fb4b700-c264-11eb-8e9e-61db2723ac18.png)
-## NOMBRE DEL EQUIPO 
-# neverVagos
+
+## neverVagos
+/home/lavila/Descargas/trabajando.png![trabajando](https://user-images.githubusercontent.com/7357374/123520442-0f445e80-d687-11eb-88ee-eb16e0d31ef8.png)
 ### INTEGRANTES
 * Avila Lucas
 * Gonzales Santiago
+## APLICACION PARA EL RESTAURANTE "Lo de Tito"
+![logo_small](https://user-images.githubusercontent.com/7357374/120256432-7fb4b700-c264-11eb-8e9e-61db2723ac18.png)
+
+
 # ENTREGAS
 ## TERCERA ITERACIÓN 
 ### ASIGNACIONES
@@ -78,10 +82,6 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ![image](https://user-images.githubusercontent.com/7357374/120258414-60b82400-c268-11eb-9af7-ca808c5ab8d6.png)
 ## CONFIRMACION CIERRE MESA
 ![image](https://user-images.githubusercontent.com/7357374/120258386-4d0cbd80-c268-11eb-817d-dc87e6092cab.png)
-## BORRADO ENTIDAD
-![image](https://user-images.githubusercontent.com/7357374/120257564-d91de580-c266-11eb-9ff6-04b5abe6fb80.png)
-## ALTA ENTIDAD
-![image](https://user-images.githubusercontent.com/7357374/120257609-e9ce5b80-c266-11eb-945c-d8e912bb5441.png)
 ## ESCANEO QR_PROPINA
 ![image](https://user-images.githubusercontent.com/7357374/120258755-04093900-c269-11eb-98aa-da84cb91acfe.png)
 ## ESCANEO QR_LISTA_ESPERA
@@ -96,9 +96,9 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ## INGRESO	 ( ANÓNIMO ) 
   Campos email y contraseña, usuarios de test en base al proceso, boton de ingreso. Botón de registrar en "club tito" , botón de ingresar anónimamente.
 ## INGRESAR ANÓNIMAMENTE	( ANÓNIMO	) 
-  Campos nombre y apellido , foto y botón agregar
+  Campos dni, nombre y apellido , foto y botón agregar
 ## SOLICITUD DE PRE-REGISTROS	( ANÓNIMO	 ) 
- Campos nombre y apellido , foto , email , password , botón carga QR y botón agregar
+ Campos dni, nombre y apellido , foto , email , password , botón carga QR y botón agregar
 ## LISTADO PRE-REGISTRADOS	( DUEÑO Y SUPERVISOR ) 
  Listado o slider o método que se prefiera ,de las solicitudes de clientes. Nombre y apellido , email , foto boton de aceptar , botón de rechazar por cada fila (o cualquier método swype o similar que se quiera)
 ## LISTADO DE CLIENTES EN ESPERA	( MAITRE ) 
@@ -111,6 +111,9 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
   Consulta al mozo y su respuesta .
 ## PÁGINA DE ESPERA (CLIENTE)	
   Pagina con 2 botones COMPLETAR ENCUESTA o VER ESTADO PEDIDO
+## PÁGINA DE INGRESO (CLIENTE)	 
+## PÁGINA DE ESPERA  (CLIENTE)	
+## PÁGINA DE ESPERA ELABORACION  (CLIENTE)	
 ## RESUMEN PEDIDO	( CLIENTE Y MOZO ) 
 Listado de los ítems solicitados , cantidad y precio de cada uno , subtotal de los precios , precio total , tiempo estimado de preparación,SI ES CLIENTE botón CONFIRMAR PEDIDO , SI ES MOZO botón ACEPTAR PEDIDO O botón RECHAZAR PEDIDO .
 ## LISTADO ARMADO PEDIO	 ( COCINERO o BARTENDER ) 
