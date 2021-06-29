@@ -4,6 +4,7 @@
 /home/lavila/Descargas/trabajando.png![trabajando](https://user-images.githubusercontent.com/7357374/123520442-0f445e80-d687-11eb-88ee-eb16e0d31ef8.png)
 ### INTEGRANTES
 * Avila Lucas
+* Clas Daniel
 * Gonzales Santiago
 ## APLICACION PARA EL RESTAURANTE "Lo de Tito"
 ![logo_small](https://user-images.githubusercontent.com/7357374/120256432-7fb4b700-c264-11eb-8e9e-61db2723ac18.png)
