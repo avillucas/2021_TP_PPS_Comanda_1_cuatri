@@ -71,19 +71,13 @@ El futuro cliente viene eventualmente
 # INGRESO 
 ![image](https://user-images.githubusercontent.com/7357374/123521160-61877e80-d68b-11eb-8aa6-5f3187d4e9c6.png)
 Anonimo debe identificarse para poder entrar al sistema 
-## PROCESOS CLIENTE
 ## PROCESOS DUEÑO
 ![image](https://user-images.githubusercontent.com/7357374/123521100-ed4cdb00-d68a-11eb-8d64-6c3205acbcc7.png)
 El dueño acepta o rechaza las solicitudes a "Club Tito"
-## PROCESOS METRE
-## PROCESOS MOZO
-## PROCESOS COCINERO
-
 # ROLES 
 ![image](https://user-images.githubusercontent.com/7357374/123521082-dc03ce80-d68a-11eb-847a-e619846ee7ce.png)
 # PERMISOS POR ROL 
 ![image](https://user-images.githubusercontent.com/7357374/120259414-4f701700-c26a-11eb-82fe-7cc87c24a773.png)
-
 # PANTALLAS
 ## INGRESO
 ![image](https://user-images.githubusercontent.com/7357374/123521215-ba571700-d68b-11eb-8005-2dec84662158.png)
