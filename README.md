@@ -9,15 +9,14 @@
 ## APLICACION PARA EL RESTAURANTE "Lo de Tito"
 ![logo_small](https://user-images.githubusercontent.com/7357374/120256432-7fb4b700-c264-11eb-8e9e-61db2723ac18.png)
 
-
 # ENTREGAS
-## CUARTA ITERACIÓN
+## ASIGNACIONES CUARTA ITERACIÓN
+Guio de la filmación : https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/SCRIPT%20TEST.pdf
 ![image](https://user-images.githubusercontent.com/7357374/124053948-8404f900-d9f7-11eb-937b-cefb0c68a0f0.png)
 ![image](https://user-images.githubusercontent.com/7357374/124053954-85cebc80-d9f7-11eb-8618-1eed4fc3d605.png)
 ![image](https://user-images.githubusercontent.com/7357374/124053957-87988000-d9f7-11eb-8f6d-7351620558e1.png)
 
-## TERCERA ITERACIÓN 
-### ASIGNACIONES
+## ASIGNACIONES TERCERA ITERACIÓN  
 ![image](https://user-images.githubusercontent.com/7357374/122625298-dbf84300-d07a-11eb-8d86-693c60951487.png)
  Script para filmación de test https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/script-test-iteracion.pdf
  Test subido a classroom : https://drive.google.com/file/d/1nh3lrX3ydy4k5D4WLeqfuGq-RpYVmmru/view?usp=sharing
@@ -35,8 +34,7 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/registro-cli
 #### Aceptación de registro Cliente
 El dueño puede aceptar a un cliente para que este pueda entrar a la aplicación , se le encia un email notificandolo.
 https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/aceptacion-cliente.mp4
-## PRIMER ITERACIÓN 
-### ASIGNACIONES
+## ASIGNACIONES PRIMER ITERACIÓN 
 ![image](https://user-images.githubusercontent.com/7357374/120259369-35363900-c26a-11eb-8eac-35c340676d98.png) 
 ### Video de pantallas
 https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-0000.mp4
