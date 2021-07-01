@@ -11,6 +11,11 @@
 
 
 # ENTREGAS
+## CUARTA ITERACIÓN
+![image](https://user-images.githubusercontent.com/7357374/124053948-8404f900-d9f7-11eb-937b-cefb0c68a0f0.png)
+![image](https://user-images.githubusercontent.com/7357374/124053954-85cebc80-d9f7-11eb-8618-1eed4fc3d605.png)
+![image](https://user-images.githubusercontent.com/7357374/124053957-87988000-d9f7-11eb-8f6d-7351620558e1.png)
+
 ## TERCERA ITERACIÓN 
 ### ASIGNACIONES
 ![image](https://user-images.githubusercontent.com/7357374/122625298-dbf84300-d07a-11eb-8d86-693c60951487.png)
@@ -59,21 +64,6 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ## Email rechazo
 ![image](https://user-images.githubusercontent.com/7357374/122851243-051c0c00-d2e5-11eb-82cc-3e155ff395af.png)
 # DIAGRAMAS 
-## REFERENCIA
-![image](https://user-images.githubusercontent.com/7357374/120257674-02d70c80-c267-11eb-8ea7-1568feee60c2.png)
-## PROCESOS ANONIMO
-# Solicitud de registro en CLUB TITO
-![image](https://user-images.githubusercontent.com/7357374/123521093-e625cd00-d68a-11eb-88cc-9d3b241f6244.png)
-El futuro cliente puede optar por registrar para luego ser aceptado y formar parte del "Club Tito" como cliente registrado
-# Registro anonimo 
-![image](https://user-images.githubusercontent.com/7357374/123521096-e8882700-d68a-11eb-98e5-c786ebb491fe.png)
-El futuro cliente viene eventualmente 
-# INGRESO 
-![image](https://user-images.githubusercontent.com/7357374/123521160-61877e80-d68b-11eb-8aa6-5f3187d4e9c6.png)
-Anonimo debe identificarse para poder entrar al sistema 
-## PROCESOS DUEÑO
-![image](https://user-images.githubusercontent.com/7357374/123521100-ed4cdb00-d68a-11eb-8d64-6c3205acbcc7.png)
-El dueño acepta o rechaza las solicitudes a "Club Tito"
 # ROLES 
 ![image](https://user-images.githubusercontent.com/7357374/123521082-dc03ce80-d68a-11eb-847a-e619846ee7ce.png)
 # PERMISOS POR ROL 
