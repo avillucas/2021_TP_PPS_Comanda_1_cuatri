@@ -3,20 +3,32 @@
 ## neverVagos
 /home/lavila/Descargas/trabajando.png![trabajando](https://user-images.githubusercontent.com/7357374/123520442-0f445e80-d687-11eb-88ee-eb16e0d31ef8.png)
 ### INTEGRANTES
+## Etapa 3 ( Iteración 4 hasta entrega )  
 * Avila Lucas
 * Clas Daniel
+* Gonzales Santiago
+## Etapa 2 ( Iteración 1 hasta iteracón 4)  
+* Avila Lucas
+* Gonzales Santiago
+## Etapa 1 ( Armado de grupo hasta Iteración 1 )  
+* Avila Lucas
 * Gonzales Santiago
 ## APLICACION PARA EL RESTAURANTE "Lo de Tito"
 ![logo_small](https://user-images.githubusercontent.com/7357374/120256432-7fb4b700-c264-11eb-8e9e-61db2723ac18.png)
 
 # ENTREGAS
+## ASIGNACIONES QUINTA ITERACIÓN
+Guio de la filmación : https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/SCRIPT%20TEST.pdf
+
 ## ASIGNACIONES CUARTA ITERACIÓN
 Guio de la filmación : https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/SCRIPT%20TEST.pdf
 ![image](https://user-images.githubusercontent.com/7357374/124053948-8404f900-d9f7-11eb-937b-cefb0c68a0f0.png)
 ![image](https://user-images.githubusercontent.com/7357374/124053954-85cebc80-d9f7-11eb-8618-1eed4fc3d605.png)
 ![image](https://user-images.githubusercontent.com/7357374/124053957-87988000-d9f7-11eb-8f6d-7351620558e1.png)
 
-## ASIGNACIONES TERCERA ITERACIÓN  
+## ASIGNACIONES TERCERA ITERACIÓN  ![image](https://user-images.githubusercontent.com/7357374/124053948-8404f900-d9f7-11eb-937b-cefb0c68a0f0.png)
+![image](https://user-images.githubusercontent.com/7357374/124053954-85cebc80-d9f7-11eb-8618-1eed4fc3d605.png)
+![image](https://user-images.githubusercontent.com/7357374/124053957-87988000-d9f7-11eb-8f6d-7351620558e1.png)
 ![image](https://user-images.githubusercontent.com/7357374/122625298-dbf84300-d07a-11eb-8d86-693c60951487.png)
  Script para filmación de test https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/script-test-iteracion.pdf
  Test subido a classroom : https://drive.google.com/file/d/1nh3lrX3ydy4k5D4WLeqfuGq-RpYVmmru/view?usp=sharing
@@ -25,7 +37,9 @@ Guio de la filmación : https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatr
 ### ASIGNACIONES
 ![image](https://user-images.githubusercontent.com/7357374/121292276-1108d680-c8c0-11eb-9a41-7c4c0b3fb967.png)
 ### Video de pantallas
-#### Registro anonimo
+#### Registro anonimo![image](https://user-images.githubusercontent.com/7357374/124053948-8404f900-d9f7-11eb-937b-cefb0c68a0f0.png)
+![image](https://user-images.githubusercontent.com/7357374/124053954-85cebc80-d9f7-11eb-8618-1eed4fc3d605.png)
+![image](https://user-images.githubusercontent.com/7357374/124053957-87988000-d9f7-11eb-8f6d-7351620558e1.png)
 Al ingresar el cliente puede ingresar de manera anonima con foto y nombre
 https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/registro-anonimo.mp4
 #### Registro cliente
@@ -52,7 +66,7 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ## QR Propina malo 
 ![image](https://user-images.githubusercontent.com/7357374/123876450-c2c08380-d911-11eb-9765-a6054672ddd2.png)
 ## QR Propina regular 
-![image](https://user-images.githubusercontent.com/7357374/123876597-fb605d00-d911-11eb-9e41-8c120ff10449.png)
+![image](https://user-images.githubusercontent.com/7357374/123876597-ione modo tableta para acfb605d00-d911-11eb-9e41-8c120ff10449.png)
 ## QR Propina bueno 
 ![image](https://user-images.githubusercontent.com/7357374/123876661-1763fe80-d912-11eb-989f-0ea199e8daba.png)
 ## QR Propina excelente
