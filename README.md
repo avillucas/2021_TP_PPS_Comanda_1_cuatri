@@ -73,6 +73,8 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ![image](https://user-images.githubusercontent.com/7357374/121292679-bb80f980-c8c0-11eb-92af-32fd73727588.png)
 ## Email rechazo
 ![image](https://user-images.githubusercontent.com/7357374/122851243-051c0c00-d2e5-11eb-82cc-3e155ff395af.png)
+## Materiales utilizados 
+https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/Materiales-20210713T235148Z-001.zip
 # DIAGRAMAS PRIMERA ITERACION 
 ## REFERENCIA
 ![image](https://user-images.githubusercontent.com/7357374/120257674-02d70c80-c267-11eb-8ea7-1568feee60c2.png)
