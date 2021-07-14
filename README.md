@@ -18,10 +18,11 @@
 
 # ENTREGAS
 ## ASIGNACIONES QUINTA ITERACIÓN
-Guio de la filmación : https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/SCRIPT%20TEST.pdf
+Guión de la filmación : https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/GUI%C3%93N.pdf
+
 
 ## ASIGNACIONES CUARTA ITERACIÓN
-Guio de la filmación : https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/SCRIPT%20TEST.pdf
+Guión de la filmación : https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/SCRIPT%20TEST.pdf
 ![image](https://user-images.githubusercontent.com/7357374/124053948-8404f900-d9f7-11eb-937b-cefb0c68a0f0.png)
 ![image](https://user-images.githubusercontent.com/7357374/124053954-85cebc80-d9f7-11eb-8618-1eed4fc3d605.png)
 ![image](https://user-images.githubusercontent.com/7357374/124053957-87988000-d9f7-11eb-8f6d-7351620558e1.png)
@@ -55,27 +56,13 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 # ICONO 
 ![image](https://user-images.githubusercontent.com/7357374/121294457-d0ab5780-c8c3-11eb-921e-77f8d1a910e6.png)
 # QRS 
-## QR Lista espera 
-![image](https://user-images.githubusercontent.com/7357374/122305097-ac133900-cedc-11eb-9559-d5c6494399df.png)
-## QR Mesa 1
-![image](https://user-images.githubusercontent.com/7357374/123358945-c2f00600-d542-11eb-97f5-72c419da571e.png)
-## QR Mesa 2
-![image](https://user-images.githubusercontent.com/7357374/123358942-bf5c7f00-d542-11eb-96a1-2071d73b8ed8.png)
-## QR Mesa 3
-![image](https://user-images.githubusercontent.com/7357374/123891446-505e9c00-d92f-11eb-909f-b7625c9b9094.png)
-## QR Propina malo 
-![image](https://user-images.githubusercontent.com/7357374/123876450-c2c08380-d911-11eb-9765-a6054672ddd2.png)
-## QR Propina regular 
-![image](https://user-images.githubusercontent.com/7357374/123876597-ione modo tableta para acfb605d00-d911-11eb-9e41-8c120ff10449.png)
-## QR Propina bueno 
-![image](https://user-images.githubusercontent.com/7357374/123876661-1763fe80-d912-11eb-989f-0ea199e8daba.png)
-## QR Propina excelente
-![image](https://user-images.githubusercontent.com/7357374/123876720-3367a000-d912-11eb-8c88-5302b2a81d6b.png)
+![image](https://user-images.githubusercontent.com/7357374/125539660-2a351a82-7414-4d56-a992-743e5b12a2c6.png)
 ## Email aceptación
 ![image](https://user-images.githubusercontent.com/7357374/121292679-bb80f980-c8c0-11eb-92af-32fd73727588.png)
 ## Email rechazo
 ![image](https://user-images.githubusercontent.com/7357374/122851243-051c0c00-d2e5-11eb-82cc-3e155ff395af.png)
-# DIAGRAMAS 
+# DIAGRAMAS PRIMERA ITERACION 
+
 # ROLES 
 ![image](https://user-images.githubusercontent.com/7357374/123521082-dc03ce80-d68a-11eb-847a-e619846ee7ce.png)
 # PERMISOS POR ROL 
