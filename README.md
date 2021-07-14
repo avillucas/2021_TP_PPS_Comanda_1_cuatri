@@ -62,7 +62,46 @@ https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/lodetito-000
 ## Email rechazo
 ![image](https://user-images.githubusercontent.com/7357374/122851243-051c0c00-d2e5-11eb-82cc-3e155ff395af.png)
 # DIAGRAMAS PRIMERA ITERACION 
-
+## REFERENCIA
+![image](https://user-images.githubusercontent.com/7357374/120257674-02d70c80-c267-11eb-8ea7-1568feee60c2.png)
+## PROCESO GENERAL CLIENTE
+![image](https://user-images.githubusercontent.com/7357374/121292320-27169700-c8c0-11eb-8ff1-ca5031fe09af.png)
+## SOLICITUD DE CLIENTE ( CLUB TITO ) 
+![image](https://user-images.githubusercontent.com/7357374/120257970-9ad4f600-c267-11eb-8abe-3c699dff3835.png)
+## ACEPTACIÓN CLIENTE (CLUB TITO )
+![image](https://user-images.githubusercontent.com/7357374/120258023-b213e380-c267-11eb-95dc-e7c4df9599b0.png)
+## ACCESO COMO CLIENTE 
+![image](https://user-images.githubusercontent.com/7357374/120258134-dcfe3780-c267-11eb-993c-eb8842ec16e0.png)
+## AGREGAR A LISTA ESPERA 
+![image](https://user-images.githubusercontent.com/7357374/120257941-8ee93400-c267-11eb-8242-9fb3995189b2.png)
+## ASIGNACIÓN MESA
+![image](https://user-images.githubusercontent.com/7357374/120257817-492c6b80-c267-11eb-90dc-60ee28a00f1f.png)
+## ESCANEO QR MESA
+![image](https://user-images.githubusercontent.com/7357374/120257468-b1c71880-c266-11eb-9b52-42194cdef2dc.png)
+## CHAT MOZO
+![image](https://user-images.githubusercontent.com/7357374/120257881-6d884800-c267-11eb-9ff9-7a07a08802f2.png)
+## ARMAR SOLICITUD PEDIDO
+![image](https://user-images.githubusercontent.com/7357374/120258216-fc956000-c267-11eb-95f3-a8320569a9bc.png)
+## REALIZAR PEDIDO
+![image](https://user-images.githubusercontent.com/7357374/120258329-35353980-c268-11eb-95cb-1dcb7742aec2.png)
+## PROCESO DE ESPERA
+![image](https://user-images.githubusercontent.com/7357374/120258667-dcb26c00-c268-11eb-8997-0a166e2654df.png)
+## ARMADO PEDIDO
+![image](https://user-images.githubusercontent.com/7357374/120258187-edaead80-c267-11eb-9ca8-ac33f6e6fdf4.png)
+## CONFIRMACION PEDIDO 
+![image](https://user-images.githubusercontent.com/7357374/120258298-22226980-c268-11eb-9f9f-5efd3552a8a3.png)
+## REALIZACIÓN ENCUESTA
+![image](https://user-images.githubusercontent.com/7357374/120258637-ce645000-c268-11eb-9c23-31eefe3d8698.png)
+## PROCESO DE ESPERA CIERRE 
+![image](https://user-images.githubusercontent.com/7357374/120258414-60b82400-c268-11eb-9af7-ca808c5ab8d6.png)
+## CONFIRMACION CIERRE MESA
+![image](https://user-images.githubusercontent.com/7357374/120258386-4d0cbd80-c268-11eb-817d-dc87e6092cab.png)
+## ESCANEO QR_PROPINA
+![image](https://user-images.githubusercontent.com/7357374/120258755-04093900-c269-11eb-98aa-da84cb91acfe.png)
+## ESCANEO QR_LISTA_ESPERA
+![image](https://user-images.githubusercontent.com/7357374/120258907-46327a80-c269-11eb-9647-3e519dab92a2.png)
+# PANTALLAS 
+![image](https://user-images.githubusercontent.com/7357374/121292389-457c9280-c8c0-11eb-9768-6ee874f0b348.png)
 # ROLES 
 ![image](https://user-images.githubusercontent.com/7357374/123521082-dc03ce80-d68a-11eb-847a-e619846ee7ce.png)
 # PERMISOS POR ROL 
