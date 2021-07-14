@@ -18,7 +18,19 @@
 
 # ENTREGAS
 ## ASIGNACIONES QUINTA ITERACIÓN
+En base a devoluciones a entrega intermedia sobre estetica 
+* Se agregaron fondos para completar espacio . 
+* Agrandaron los botones .
+* Completaron los scaneos de QR .
+* Agregada la revision del scaneo de los 2 tipos de qr 
+* Se mejoro la estica en general 
+* Se elimino el paso intermedio en el proceso de toma de foto , en registro
+* Se eliminaron los botones de testeo en la filmacion
+## Planilla de tareas 
 Guión de la filmación : https://github.com/avillucas/2021_TP_PPS_Comanda_1_cuatri/blob/main/GUI%C3%93N.pdf
+![image](https://user-images.githubusercontent.com/7357374/125540869-1a7b743a-ac9e-42ed-b79e-bc788bf82480.png)
+![image](https://user-images.githubusercontent.com/7357374/125540877-1c4e3c34-0fd4-4496-af99-ffd5f93652af.png)
+![image](https://user-images.githubusercontent.com/7357374/125540884-6261b4d3-fa11-4588-b5af-7ffcb04c8c53.png)
 
 
 ## ASIGNACIONES CUARTA ITERACIÓN
