@@ -9,7 +9,7 @@
 * Gonzales Santiago
 ## Etapa 2 ( Iteración 1 hasta iteracón 4)  
 * Avila Lucas
-* Gonzales Santiago
+* Gonzalez Santiago
 ## Etapa 1 ( Armado de grupo hasta Iteración 1 )  
 * Avila Lucas
 * Gonzales Santiago
